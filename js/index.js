@@ -139,3 +139,4 @@ const api = method => path => {
 // }
 // const n = 'sun'
 // console.log(obj[n]?.num1 ?? 0)
+console.log('Blabla')
